@@ -22,17 +22,17 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "Số 23 ngõ 149A Lê Duẩn",
+            "value": "Hoàn Kiếm, Hanoi, Vietnam",
             "valueShort": "Hà Nội, VN 111100",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
         "email": {
             "id": "email",
-            "value": "killian.blais@gmail.com",
-            "valueShort": "killian.blais@gmail.com",
+            "value": "",
+            "valueShort": "",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:killian.blais@gmail.com"
+            "href": ""
         },
         "facebook": {
             "id": "facebook",
@@ -64,10 +64,10 @@
         },
         "phone": {
             "id": "phone",
-            "value": "+1 347 815 29 39",
-            "valueShort": "(347) 815 29 39",
+            "value": "",
+            "valueShort": "",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:+13478152939"
+            "href": ""
         }
     }
 }

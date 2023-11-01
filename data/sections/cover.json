@@ -25,7 +25,6 @@
         "socialCircles": [
             "@link{profile.contact.instagram}",
             "@link{profile.contact.facebook}",
-            "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}"
         ],
         "contactListItems": [
