@@ -1,0 +1,215 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Adobe Inc."
+            }
+        }
+    },
+    "apple": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {
+                "name": "Apple Inc."
+            }
+        }
+    },
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Coursera"
+            }
+        }
+    },
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {
+                "name": "Forbes"
+            }
+        }
+    },
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {
+                "name": "Google"
+            }
+        }
+    },
+    "harvard": {
+        "logoUrl": "images/places/logo-harvard.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "Harvard University"
+            },
+            "es": {
+                "name": "Universidad de Harvard"
+            },
+            "fr": {
+                "name": "Université Harvard"
+            },
+            "zh": {
+                "name": "哈佛大学"
+            }
+        }
+    },
+    "paris": {
+        "logoUrl": "images/places/logo-paris-university.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "University of Paris"
+            },
+            "es": {
+                "name": "Universidad de París"
+            },
+            "fr": {
+                "name": "Université de Paris"
+            },
+            "zh": {
+                "name": "巴黎大学"
+            }
+        }
+    },
+    "udacity": {
+        "logoUrl": "images/places/logo-udacity.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Udacity"
+            }
+        }
+    },
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "UX Masters Studio"
+            }
+        }
+    },
+    "lyceeBlaisePascal": {
+        "logoUrl": "images/places/logo_blaise_pascal.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Blaise Pascale High School in Chateauroux"
+            },
+            "fr": {
+                "name": "Lycée Blaise Pascale de Chateauroux"
+            }
+        }
+    },
+    "lyceeLouisRascol": {
+        "logoUrl": "images/places/logo_lycee_louis_rascol.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Blaise Pascale Louis Rascol in Albi"
+            },
+            "fr": {
+                "name": "Lycée Louis Rascol d'Albi"
+            }
+        }
+    },
+    "lynda": {
+        "logoUrl": "images/places/logo_lynda_app_icon.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Lynda.com"
+            }
+        }
+    },
+    "udemy": {
+        "logoUrl": "images/places/logo_udemy.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Udemy"
+            }
+        }
+    },
+    "pySpark": {
+        "logoUrl": "images/places/logo_pyspark.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Big Data"
+            }
+        }
+    },
+    "arduino": {
+        "logoUrl": "images/places/logo_arduino.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Embedded"
+            }
+        }
+    },
+    "computerVision": {
+        "logoUrl": "images/places/logo_computer_vision.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Computer Vision"
+            }
+        }
+    },
+    "googleCloud": {
+        "logoUrl": "images/places/Google-cloud-platform.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Cloud Function"
+            }
+        }
+    },
+    "nlp": {
+        "logoUrl": "images/places/logo_spacy.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Natural Language Processing"
+            }
+        }
+    },
+    "gis": {
+        "logoUrl": "images/places/logo_qgis.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Geographic Information System"
+            }
+        }
+    },
+    "cesium": {
+        "logoUrl": "images/places/logo_cesium.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Geographic Information System"
+            }
+        }
+    },
+    "pandas": {
+        "logoUrl": "images/places/logo_pandas.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Pandas Dataframe"
+            }
+        }
+    }
+}

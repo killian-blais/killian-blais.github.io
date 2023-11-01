@@ -1,0 +1,73 @@
+{
+    "name": "Killian Blais",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "locales": {
+        "en": {
+            "credits": "",
+            "role": "Coding Commando"
+        },
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Designer de UX"
+        },
+        "fr": {
+            "credits": "",
+            "role": "Coding Commando"
+        },
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "用户体验设计师"
+        }
+    },
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Số 23 ngõ 149A Lê Duẩn",
+            "valueShort": "Hà Nội, VN 111100",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+        "email": {
+            "id": "email",
+            "value": "killian.blais@gmail.com",
+            "valueShort": "killian.blais@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:killian.blais@gmail.com"
+        },
+        "facebook": {
+            "id": "facebook",
+            "value": "Killian Harpocrates",
+            "valueShort": "K. Harpocrates",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/entheopsychonaute"
+        },
+        "github": {
+            "id": "github",
+            "value": "@psychonaute",
+            "valueShort": "@psychonaute",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/psychonaute"
+        },
+        "instagram": {
+            "id": "instagram",
+            "value": "@killian.harpocrates",
+            "valueShort": "@killian.harpocrates",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/killian.harpocrates/"
+        },
+        "linkedin": {
+            "id": "linkedin",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+        "phone": {
+            "id": "phone",
+            "value": "+1 347 815 29 39",
+            "valueShort": "(347) 815 29 39",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+13478152939"
+        }
+    }
+}

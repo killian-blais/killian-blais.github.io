@@ -1,0 +1,593 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "fr": {
+            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span> 集",
+            "description": "探索我所掌握和发展的多样技能:"
+        }
+    },
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {
+                    "title": null
+                }
+            }
+        },
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {
+                    "title": "Programming"
+                },
+                "es": {
+                    "title": "Programación"
+                },
+                "fr": {
+                    "title": "Programmation"
+                },
+                "zh": {
+                    "title": "编程"
+                }
+            }
+        },
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {
+                "0": "beginner",
+                "20": "rookie",
+                "40": "intermediate",
+                "60": "advanced",
+                "80": "fluent",
+                "100": "native"
+            },
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "zh": {
+                    "title": "语言"
+                }
+            }
+        },
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {
+                    "title": "Bonus Skills"
+                },
+                "es": {
+                    "title": "Habilidades Adicionales"
+                },
+                "fr": {
+                    "title": "Plus Habiletés"
+                },
+                "zh": {
+                    "title": "附加技能"
+                }
+            }
+        }
+    ],
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-terminal",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Object-oriented programming",
+                        "description": "Highly skilled in organizing and structuring code allowing for modular and reusable software design."
+                    },
+                    "es": {
+                        "title": "Principios de Diseño",
+                        "description": "Destacada habilidad en crear diseños atractivos usando principios fundamentales de teoría del color, tipografía, composición de layout y equilibrio para cautivar a los espectadores y transmitir mensajes con eficacia."
+                    },
+                    "fr": {
+                        "title": "Programmation orientée objet",
+                        "description": "Hautement compétent dans l'organisation et la structuration du code, permettant la conception de logiciels modulaires et réutilisables."
+                    },
+                    "zh": {
+                        "title": "设计原则",
+                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Database Management",
+                        "description": "Skilled in database systems like SQL, NoSQL and data warehousing"
+                    },
+                    "es": {
+                        "title": "Pruebas de Usabilidad",
+                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                    },
+                    "fr": {
+                        "title": "Gestion de bases de données",
+                        "description": "Maîtrise des systèmes de gestion de bases de données comme SQL, NoSQL ou les entrepôts de données."
+                    },
+                    "zh": {
+                        "title": "可用性测试",
+                        "description": "通过全面的可用性测试提升用户体验。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Front-End Development",
+                        "description": "Capable of developing web applications using VueJS/Nuxt and Django."
+                    },
+                    "es": {
+                        "title": "Desarrollo Front-End",
+                        "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."
+                    },
+                    "fr": {
+                        "title": "Développement Front-End",
+                        "description": "Capable de développer des applications web en utilisant Vue.js/Nuxt et Django"
+                    },
+                    "zh": {
+                        "title": "前端开发",
+                        "description": "能够编写VueJS、AngularJS和TypeScript代码。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-flask",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Test-driven development (TDD)",
+                        "description": "Adhering to the principle of writing tests before writing the actual code."
+                    },
+                    "es": {
+                        "title": "Diseños Responsivos",
+                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima mediante el ajuste fluido de elementos y contenido a diferentes tamaños de pantalla."
+                    },
+                    "fr": {
+                        "title": "Développement piloté par les tests",
+                        "description": "Respect du principe d'écriture des tests avant de s'attacher à écrire le code."
+                    },
+                    "zh": {
+                        "title": "响应式布局",
+                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code-branch",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Git Repository management",
+                        "description": "Proficient in using Git for source code version control, including branching, merging, resolving conflicts, and collaborating with remote repositories, ensuring efficient code management and team collaboration."
+                    },
+                    "es": {
+                        "title": "Pruebas de Usabilidad",
+                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                    },
+                    "fr": {
+                        "title": "Gestion de dépôts",
+                        "description": "Compétent dans l'utilisation de Git pour le contrôle de version du code source, y compris la création de branches, la fusion, la résolution des conflits et la collaboration avec les dépôts distants, garantissant une gestion efficace du code et la collaboration en équipe."
+                    },
+                    "zh": {
+                        "title": "可用性测试",
+                        "description": "通过全面的可用性测试提升用户体验。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-compass-drafting",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Data Analysis",
+                        "description": "Proficient in analyzing data to extract meaningful insights."
+                    },
+                    "es": {
+                        "title": "Creación de Wireframes",
+                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                    },
+                    "fr": {
+                        "title": "Analyse de données",
+                        "description": "Maîtrise de l'analyse de données pour extraire des informations significatives."
+                    },
+                    "zh": {
+                        "title": "线框图设计",
+                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                    }
+                }
+            }
+        ],
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-python",
+                "value": 95,
+                "locales": {
+                    "en": {
+                        "title": "Python",
+                        "description": "Experience Time: 5 years"
+                    },
+                    "es": {
+                        "title": "HTML 5",
+                        "description": "Experiencia: 5 años"
+                    },
+                    "fr": {
+                        "title": "Python",
+                        "description": "Expérience : 5 ans"
+                    },
+                    "zh": {
+                        "title": "HTML 5",
+                        "description": "经验时长：5年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "TypeScript",
+                        "description": "Experience Time: 2 years"
+                    },
+                    "es": {
+                        "title": "JavaScript",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "JavaScript",
+                        "description": "Expérience : 2 ans"
+                    },
+                    "zh": {
+                        "title": "JavaScript",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 95,
+                "locales": {
+                    "en": {
+                        "title": "CSS 3",
+                        "description": "Experience Time: 5 years"
+                    },
+                    "es": {
+                        "title": "CSS 3",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "CSS 3",
+                        "description": "Expérience : 5 ans"
+                    },
+                    "zh": {
+                        "title": "CSS 3",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-hive",
+                "value": 85,
+                "locales": {
+                    "en": {
+                        "title": "Pandas",
+                        "description": "Experience Time: 3 years"
+                    },
+                    "es": {
+                        "title": "CSS 3",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "Pandas",
+                        "description": "Expérience : 3 ans"
+                    },
+                    "zh": {
+                        "title": "CSS 3",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-star",
+                "value": 65,
+                "locales": {
+                    "en": {
+                        "title": "PySpark",
+                        "description": "Experience Time: 2 years"
+                    },
+                    "es": {
+                        "title": "CSS 3",
+                        "description": "Experiencia: 3 años"
+                    },
+                    "fr": {
+                        "title": "PySpark",
+                        "description": "Expérience : 2 ans"
+                    },
+                    "zh": {
+                        "title": "CSS 3",
+                        "description": "经验时长：3年"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "Vue 3",
+                        "description": "Experience Time: 2 years"
+                    },
+                    "es": {
+                        "title": "Vue 3",
+                        "description": "Experiencia: 2 años"
+                    },
+                    "fr": {
+                        "title": "Vue 3",
+                        "description": "Expérience : 2 ans"
+                    },
+                    "zh": {
+                        "title": "Vue 3",
+                        "description": "经验时长：2年"
+                    }
+                }
+            }
+        ],
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/fr.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {
+                        "title": "French",
+                        "description": "Native speaker with excellent communication and writing skills."
+                    },
+                    "es": {
+                        "title": "Inglés",
+                        "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."
+                    },
+                    "fr": {
+                        "title": "Français",
+                        "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."
+                    },
+                    "zh": {
+                        "title": "英语",
+                        "description": "母语人士，具有出色的沟通和写作能力。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 95,
+                "locales": {
+                    "en": {
+                        "title": "English",
+                        "description": "Fluent in both spoken and written English; confident in professional communication."
+                    },
+                    "es": {
+                        "title": "Inglés",
+                        "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."
+                    },
+                    "fr": {
+                        "title": "Anglais",
+                        "description": "Courant à la fois à l'oral et à l'écrit en Anglais ; confiant dans la communication professionnelle."
+                    },
+                    "zh": {
+                        "title": "英语",
+                        "description": "母语人士，具有出色的沟通和写作能力。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/id.png",
+                "faIcon": null,
+                "value": 40,
+                "locales": {
+                    "en": {
+                        "title": "Indonesian",
+                        "description": "Intermediate proficiency in Indonesian language; can hold conversations and understand written text."
+                    },
+                    "es": {
+                        "title": "Vietnamita",
+                        "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."
+                    },
+                    "fr": {
+                        "title": "Indonésien",
+                        "description": "Compétence intermédiaire en indonésien ; peut tenir des conversations et comprendre un texte écrit."
+                    },
+                    "zh": {
+                        "title": "越南语",
+                        "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/ja.png",
+                "faIcon": null,
+                "value": 15,
+                "locales": {
+                    "en": {
+                        "title": "Japanese",
+                        "description": "Basic understanding of Japanese Portuguese; learning and improving."
+                    },
+                    "es": {
+                        "title": "Vietnamita",
+                        "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."
+                    },
+                    "fr": {
+                        "title": "Japonais",
+                        "description": "Compréhension de base du portugais japonais; en cours d'apprentissage et d'amélioration."
+                    },
+                    "zh": {
+                        "title": "越南语",
+                        "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"
+                    }
+                }
+            }
+        ],
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "API Integration",
+                        "description": "Knowledge of integrating and working with APIs for data retrieval and application connectivity."
+                    },
+                    "es": {
+                        "title": "Visualización de Información",
+                        "description": "Capaz de transformar datos complejos en visuales claros."
+                    },
+                    "fr": {
+                        "title": "Intégration d'API",
+                        "description": "Connaissance de l'intégration et du travail avec les API pour la récupération de données et la connectivité des applications."
+                    },
+                    "zh": {
+                        "title": "信息可视化",
+                        "description": "能够将复杂的数据转化为清晰的可视化图表。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Cloud Computing",
+                        "description": "Experience with cloud platforms like AWS, Azure, or Google Cloud for data storage and processing."
+                    },
+                    "es": {
+                        "title": "Accesibilidad y Diseño Inclusivo",
+                        "description": "Capaz de crear experiencias digitales accesibles para todos."
+                    },
+                    "fr": {
+                        "title": "Cloud Computing",
+                        "description": "Expérience avec les plates-formes cloud telles qu'AWS, Azure ou Google Cloud pour le stockage et le traitement des données."
+                    },
+                    "zh": {
+                        "title": "可访问性和包容性设计",
+                        "description": "能够创建面向所有人的数字体验。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Machine Learning",
+                        "description": "Knowledge of machine learning libraries such as scikit-learn, PyTorch and TensorFlow for data analysis."
+                    },
+                    "es": {
+                        "title": "Análisis de Datos Centrado en el Usuario",
+                        "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
+                    },
+                    "fr": {
+                        "title": "Apprentissage automatique",
+                        "description": " Connaissance de bibliothèques d'apprentissage automatique telles que scikit-learn, PyTorch and TensorFlow pour l'analyse des données."
+                    },
+                    "zh": {
+                        "title": "以用户为中心的数据分析",
+                        "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "User Interface (UI) Design",
+                        "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."
+                    },
+                    "es": {
+                        "title": "Diseño de Interfaz de Usuario (UI)",
+                        "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."
+                    },
+                    "fr": {
+                        "title": "Design d'Interface Utilisateur (UI)",
+                        "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."
+                    },
+                    "zh": {
+                        "title": "用户界面（UI）设计",
+                        "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Data Ethics",
+                        "description": "Understanding of ethical considerations in data collection and analysis."
+                    },
+                    "es": {
+                        "title": "Experiencia de Usuario en Aplicaciones Móviles",
+                        "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
+                    },
+                    "fr": {
+                        "title": "Éthique des données",
+                        "description": "Compréhension des considérations éthiques liées à la collecte et à l'analyse des données."
+                    },
+                    "zh": {
+                        "title": "移动应用用户体验",
+                        "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"
+                    }
+                }
+            }
+        ]
+    }
+}
