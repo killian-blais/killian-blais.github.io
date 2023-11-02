@@ -50,6 +50,26 @@
             }
         },
         {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {
+                    "title": "Bonus Skills"
+                },
+                "es": {
+                    "title": "Habilidades Adicionales"
+                },
+                "fr": {
+                    "title": "Plus Habiletés"
+                },
+                "zh": {
+                    "title": "附加技能"
+                }
+            }
+        },
+        {
             "id": "languages",
             "type": "list",
             "progress": {
@@ -73,26 +93,6 @@
                 },
                 "zh": {
                     "title": "语言"
-                }
-            }
-        },
-        {
-            "id": "extra",
-            "type": "grid",
-            "progress": null,
-            "faIcon": "fa fa-marker",
-            "locales": {
-                "en": {
-                    "title": "Bonus Skills"
-                },
-                "es": {
-                    "title": "Habilidades Adicionales"
-                },
-                "fr": {
-                    "title": "Plus Habiletés"
-                },
-                "zh": {
-                    "title": "附加技能"
                 }
             }
         }

@@ -3,7 +3,7 @@
         "en": {
             "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
             "welcomeShort": "Welcome!",
-            "bio": "As a coding commando with 5 years of experience, I'm always on the lookout for new projects that would airdrop me into uncharted territories once more and allow me to master new sets of tools. My last feat in battle was to use PySpark, a Python wrapper for Java's Spark SQL module, to process large datasets of historical stock exchange prices and investigate various investment strategies. Since I couldn't tame the stock exchange's stochastic nature, I'm transitioning into mercenary work and am available for hire."
+            "bio": "As a coding commando, I'm always on the lookout for new projects that would airdrop me into uncharted territories once more and allow me to master new sets of tools. My last feat in battle was to use PySpark, a Python wrapper for Java's Spark SQL module, to process large datasets of historical stock exchange prices and investigate various investment strategies. Having tamed the technical nature of the project but not the stochastic nature of the stock market, I am now seeking a new mission."
         },
         "es": {
             "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
@@ -13,7 +13,7 @@
         "fr": {
             "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
             "welcomeShort": "Bienvenue!",
-            "bio": "En tant que codeur commando avec 5 ans d'expérience, je suis toujours à la recherche de nouveaux projets qui me permettraient d'être parachuté de nouveaux en territoires inexplorés et pouvoir découvrir de nouveaux outils. Mon dernier fait d'arme a été d'utiliser PySpark, un wrapper Python pour le module en Java: Spark SQL, pour effectuer des opérations sur de gros volume de données de cours historiques de la bourse et étudier diverses stratégies d'investissement. N'ayant pas réussi à dompter la nature stochastique de la bourse, aujourd'hui, je me tourne vers le mercenariat et je suis prêt à être recruté."
+            "bio": "En tant que codeur commando, je suis toujours à la recherche de nouveaux projets qui me permettraient d'être parachuté une nouvelle fois en territoires inexplorés et pouvoir découvrir de nouveaux outils. Mon dernier fait d'arme a été d'utiliser PySpark, un wrapper Python pour le module en Java: Spark SQL, pour effectuer des opérations sur de gros volume de données de cours historiques de la bourse et étudier diverses stratégies d'investissement. Ayant dompté la nature technique du projet mais pas la nature stochastique de la bourse, je recherche aujourd'hui une nouvelle mission."
         },
         "zh": {
             "welcome": "欢迎来到我的<span class='text-primary'>简历</span>！",

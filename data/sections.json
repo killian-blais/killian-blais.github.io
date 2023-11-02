@@ -27,11 +27,11 @@
             "cover": true
         },
         {
-            "id": "education",
+            "id": "experience",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
         },
         {
             "id": "skills",
@@ -41,11 +41,11 @@
             "faIcon": "fa-solid fa-tools"
         },
         {
-            "id": "experience",
+            "id": "education",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
+            "jsonPath": "data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
         },
         {
             "id": "hobbies",

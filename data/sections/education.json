@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Educational</span> Background",
-            "description": "A glimpse into my academic trajectory."
+            "description": "Academic Journey and Ongoing Self-Education."
         },
         "es": {
             "title": "Antecedentes <span class='text-primary'>Educativos</span>",
@@ -10,7 +10,7 @@
         },
         "fr": {
             "title": "Parcours <span class='text-primary'>Éducatif</span>",
-            "description": "Un aperçu de mon parcours académique."
+            "description": "Parcours académique et autoformation continue."
         },
         "zh": {
             "title": "<span class='text-primary'>教育</span> 背景",

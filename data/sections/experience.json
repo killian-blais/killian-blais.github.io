@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Project</span> Experience",
-            "description": "A look into the projects I undertook and the knowledge I gained with them"
+            "description": "The experiences I share below represent my most relevant and recent accomplishments."
         },
         "es": {
             "title": "<span class='text-primary'>Experiencia</span> Profesional",
@@ -10,7 +10,7 @@
         },
         "fr": {
             "title": "Expérience de <span class='text-primary'>Projet</span>",
-            "description": "Un regard sur les projets que j'ai entrepris et les connaissances que j'ai acquises avec eux."
+            "description": "Les expériences que je partage ci-dessous sont mes réalisations les plus pertinentes et les plus récentes."
         },
         "zh": {
             "title": "<span class='text-primary'>专业</span> 经验",
