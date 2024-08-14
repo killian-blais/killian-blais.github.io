@@ -101,24 +101,24 @@
         "abilities": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-terminal",
+                "faIcon": "fas fa-cubes",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Object-oriented programming",
-                        "description": "Highly skilled in organizing and structuring code allowing for modular and reusable software design."
+                        "title": "Blockchain Development",
+                        "description": "Proficient in developing decentralized applications using Ethereum and Solidity."
                     },
                     "es": {
-                        "title": "Principios de Diseño",
-                        "description": "Destacada habilidad en crear diseños atractivos usando principios fundamentales de teoría del color, tipografía, composición de layout y equilibrio para cautivar a los espectadores y transmitir mensajes con eficacia."
+                        "title": "Desarrollo de Blockchain",
+                        "description": "Experto en el desarrollo de aplicaciones descentralizadas utilizando Ethereum y Solidity."
                     },
                     "fr": {
-                        "title": "Programmation orientée objet",
-                        "description": "Hautement compétent dans l'organisation et la structuration du code, permettant la conception de logiciels modulaires et réutilisables."
+                        "title": "Développement Blockchain",
+                        "description": "Compétent dans le développement d'applications décentralisées en utilisant Ethereum et Solidity."
                     },
                     "zh": {
-                        "title": "设计原则",
-                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                        "title": "区块链开发",
+                        "description": "精通使用以太坊和Solidity开发去中心化应用。"
                     }
                 }
             },
