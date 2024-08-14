@@ -124,29 +124,6 @@
             },
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-database",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Database Management",
-                        "description": "Skilled in database systems like SQL, NoSQL and data warehousing"
-                    },
-                    "es": {
-                        "title": "Pruebas de Usabilidad",
-                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
-                    },
-                    "fr": {
-                        "title": "Gestion de bases de données",
-                        "description": "Maîtrise des systèmes de gestion de bases de données comme SQL, NoSQL ou les entrepôts de données."
-                    },
-                    "zh": {
-                        "title": "可用性测试",
-                        "description": "通过全面的可用性测试提升用户体验。"
-                    }
-                }
-            },
-            {
-                "imageIconUrl": null,
                 "faIcon": "fas fa-desktop",
                 "value": null,
                 "locales": {
@@ -165,6 +142,29 @@
                     "zh": {
                         "title": "前端开发",
                         "description": "能够编写VueJS、AngularJS和TypeScript代码。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-server",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Back-End Development",
+                        "description": "Experienced in developing server-side applications using NestJS."
+                    },
+                    "es": {
+                        "title": "Desarrollo Back-End",
+                        "description": "Experto en el desarrollo de aplicaciones del lado del servidor utilizando NestJS."
+                    },
+                    "fr": {
+                        "title": "Développement Back-End",
+                        "description": "Expérimenté dans le développement d'applications côté serveur en utilisant NestJS."
+                    },
+                    "zh": {
+                        "title": "后端开发",
+                        "description": "擅长使用NestJS开发服务器端应用程序。"
                     }
                 }
             },

@@ -199,6 +199,58 @@
                     "description": "为设计直观、用户友好的网络应用界面作出了贡献，创建了引人入胜且无缝的用户体验。与跨职能团队和利益相关者密切合作，确保设计与业务目标和用户需求相一致。"
                 }
             }
+        },
+        {
+            "id": "experience_item_codeKoriko",
+            "place": "@link{places.codeKoriko}",
+            "period": [
+                "2023/11",
+                "Present"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Founder & Lead Developer",
+                    "description": "Founded codeKoriko, a development company specializing in web and mobile applications. Led a team of developers to deliver high-quality software solutions."
+                },
+                "es": {
+                    "title": "Fundador y Desarrollador Principal",
+                    "description": "Fundé codeKoriko, una empresa de desarrollo especializada en aplicaciones web y móviles. Lideré un equipo de desarrolladores para entregar soluciones de software de alta calidad."
+                },
+                "fr": {
+                    "title": "Fondateur et Développeur Principal",
+                    "description": "Fondé codeKoriko, une entreprise de développement spécialisée dans les applications web et mobiles. Dirigé une équipe de développeurs pour fournir des solutions logicielles de haute qualité."
+                },
+                "zh": {
+                    "title": "创始人兼首席开发者",
+                    "description": "创立了codeKoriko，一家专注于Web和移动应用程序开发的公司。领导开发团队交付高质量的软件解决方案。"
+                }
+            }
+        },
+        {
+            "id": "experience_item_9",
+            "place": "@link{places.leveros}",
+            "period": [
+                "2023/11",
+                "Present"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Lead Developer for Leveros Platform",
+                    "description": "Spearheading the development of the Leveros platform, a leveraged crypto-assets lending solution. Responsible for front-end development using Vue 3 and Bootstrap 5, back-end architecture, and the creation of secure smart contracts on the Ethereum blockchain. The platform addresses the volatility of cryptocurrency markets by allowing users to borrow crypto-assets with leverage, offering advanced features like multi-token pools and callback mechanisms to reduce gas fees."
+                },
+                "es": {
+                    "title": "Desarrollador Principal de la Plataforma Leveros",
+                    "description": "Liderando el desarrollo de la plataforma Leveros, una solución de préstamos de criptoactivos con apalancamiento. Responsable del desarrollo front-end con Vue 3 y Bootstrap 5, la arquitectura back-end y la creación de contratos inteligentes seguros en la blockchain de Ethereum. La plataforma aborda la volatilidad de los mercados de criptomonedas, permitiendo a los usuarios pedir prestados criptoactivos con apalancamiento, ofreciendo características avanzadas como pools de múltiples tokens y mecanismos de callback para reducir las tarifas de gas."
+                },
+                "fr": {
+                    "title": "Développeur Principal pour la Plateforme Leveros",
+                    "description": "Dirige le développement de la plateforme Leveros, une solution de prêt de crypto-actifs avec effet de levier. Responsable du développement front-end avec Vue 3 et Bootstrap 5, de l'architecture back-end, et de la création de contrats intelligents sécurisés sur la blockchain Ethereum. La plateforme répond à la volatilité des marchés de cryptomonnaies en permettant aux utilisateurs d'emprunter des crypto-actifs avec levier, en offrant des fonctionnalités avancées comme des pools multi-tokens et des mécanismes de callback pour réduire les frais de gas."
+                },
+                "zh": {
+                    "title": "Leveros平台的首席开发者",
+                    "description": "负责领导Leveros平台的开发，这是一个加密资产杠杆借贷解决方案。负责使用Vue 3和Bootstrap 5进行前端开发，搭建后端架构，以及在以太坊区块链上创建安全的智能合约。该平台通过允许用户借入加密资产以应对加密货币市场的波动，提供了多令牌池和回调机制等高级功能，以减少燃气费。"
+                }
+            }
         }
     ]
 }

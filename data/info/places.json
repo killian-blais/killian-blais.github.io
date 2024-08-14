@@ -211,5 +211,23 @@
                 "name": "Pandas Dataframe"
             }
         }
+    },
+    "codeKoriko": {
+        "logoUrl": "images/places/logo_codeKoriko.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "codeKoriko"
+            }
+        }
+    },
+    "leveros": {
+        "logoUrl": "images/places/logo_leveros.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {
+                "name": "Leveros Finance"
+            }
+        }
     }
 }

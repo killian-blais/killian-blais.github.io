@@ -22,8 +22,8 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "Hoàn Kiếm, Hanoi, Vietnam",
-            "valueShort": "Hà Nội, VN 111100",
+            "value": "codeKoriko, Artaix, 71110, France",
+            "valueShort": "Artaix, FR 71110",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
@@ -43,10 +43,10 @@
         },
         "github": {
             "id": "github",
-            "value": "@psychonaute",
-            "valueShort": "@psychonaute",
+            "value": "@codekoriko",
+            "valueShort": "@codekoriko",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/psychonaute"
+            "href": "https://github.com/codekoriko"
         },
         "instagram": {
             "id": "instagram",

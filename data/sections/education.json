@@ -100,8 +100,8 @@
             "id": "udemy_vue",
             "place": "@link{places.udemy}",
             "period": [
-                "2023/09",
-                "2023/09"
+                "2023/05",
+                "2023/06"
             ],
             "locales": {
                 "en": {
@@ -119,6 +119,32 @@
                 "zh": {
                     "title": "人机交互硕士学位",
                     "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        },
+        {
+            "id": "udemy_ethereum_blockchain_bootcamp",
+            "place": "@link{places.udemy}",
+            "period": [
+                "2024/01",
+                "2024/02"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Ethereum Blockchain Developer Bootcamp With Solidity",
+                    "description": "Completed an intensive bootcamp focused on Ethereum blockchain development, covering Solidity programming, smart contract creation, decentralized applications (DApps), and the use of development frameworks like Hardhat. The course provided in-depth knowledge of blockchain architecture, security best practices, and the integration of blockchain with web technologies."
+                },
+                "es": {
+                    "title": "Bootcamp de Desarrollador de Blockchain de Ethereum con Solidity",
+                    "description": "Completó un bootcamp intensivo centrado en el desarrollo de blockchain de Ethereum, que abarca la programación en Solidity, la creación de contratos inteligentes, aplicaciones descentralizadas (DApps) y el uso de marcos de desarrollo como Hardhat. El curso proporcionó un conocimiento profundo de la arquitectura de blockchain, las mejores prácticas de seguridad y la integración de blockchain con tecnologías web."
+                },
+                "fr": {
+                    "title": "Bootcamp Développeur Blockchain Ethereum avec Solidity",
+                    "description": "A terminé un bootcamp intensif axé sur le développement de la blockchain Ethereum, couvrant la programmation Solidity, la création de contrats intelligents, les applications décentralisées (DApps) et l'utilisation de frameworks de développement tels que Hardhat. Le cours a fourni une connaissance approfondie de l'architecture de la blockchain, des meilleures pratiques en matière de sécurité et de l'intégration de la blockchain avec les technologies web."
+                },
+                "zh": {
+                    "title": "以太坊区块链开发者训练营与Solidity",
+                    "description": "完成了以太坊区块链开发的密集训练营，涵盖了Solidity编程、智能合约创建、去中心化应用程序（DApps）以及使用Hardhat等开发框架。该课程提供了区块链架构、安全最佳实践以及区块链与Web技术集成的深入知识。"
                 }
             }
         }
